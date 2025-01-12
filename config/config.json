@@ -1,0 +1,16 @@
+{
+  "linkedin_username": "your_linkedin_username",
+  "linkedin_password": "your_linkedin_password",
+  "naukri_username": "your_naukri_username",
+  "naukri_password": "your_naukri_password",
+  "google_jobs_api_key": "your_google_jobs_api_key",
+  "email_username": "your_email_username",
+  "email_password": "your_email_password",
+  "captcha_api_key": "your_captcha_api_key",
+  "resume_path": "path_to_your_resume.pdf",
+  "job_preferences": {
+    "location": "your_preferred_location",
+    "job_type": "remote",
+    "salary_range": "50000-100000"
+  }
+}

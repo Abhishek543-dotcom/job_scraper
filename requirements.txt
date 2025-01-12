@@ -1,0 +1,15 @@
+selenium
+beautifulsoup4
+scrapy
+spacy
+transformers
+pandas
+numpy
+flask
+sqlalchemy
+pymysql
+smtplib
+pyautogui
+playwright
+puppeteer
+docker

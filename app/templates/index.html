@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Job Application Dashboard</h1>
+        </div>
+        <div class="job-list">
+            <h2>High Match Jobs</h2>
+            <ul id="high-match-jobs" class="job-list"></ul>
+            <h2>Moderate Match Jobs</h2>
+            <ul id="moderate-match-jobs" class="job-list"></ul>
+            <h2>Low Match Jobs</h2>
+            <ul id="low-match-jobs" class="job-list"></ul>
+        </div>
+        <div class="error" id="error-message"></div>
+    </div>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
+</write_to_file>
