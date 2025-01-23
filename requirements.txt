@@ -7,9 +7,8 @@ pandas
 numpy
 flask
 sqlalchemy
-pymysql
-smtplib
+PyMySQL==1.1.1
 pyautogui
 playwright
-puppeteer
+scrapy-puppeteer
 docker
